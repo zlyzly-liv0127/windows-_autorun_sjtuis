@@ -1,1 +1,1 @@
-# windows-_autorun_sjtuis
+# windows-curriculum design_autorun_sjtuis
